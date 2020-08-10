@@ -1,7 +1,7 @@
-*Welcome to the official repository for the game "Out of Control(s)". <br> Here, you can find all jam and post-jam releases in the [Releases](https://github.com/geegaz/GMTK_Jam_2020/releases) section of the repository, or browse the code.*
+*Welcome to the official repository for the game "Out of Control(s)". <br> Here, you can find all jam and post-jam releases in the [Releases](https://github.com/geegaz/GMTK_Jam_2020/releases) section of the repository or browse the code.*
 
 
-# A Key(s) Path
+# A Key(s) Path 
 **- By Geegaz -**
 
 <img src="https://img.itch.zone/aW1nLzM4NjM5MTEuZ2lm/original/bm3fwN.gif">
@@ -21,7 +21,7 @@ Because as soon as one is placed, you **can't use it for movement**. It will be 
 The game plays with a mouse and keyboard.
 
 <ul>
-    <li><strong>Move:</strong> Left and Right arrow / A and D / Q and D</li>
+    <li><strong>Move:</strong> Left and Right arrow / A and D / Q and D</li>...
     <li><strong>Jump:</strong> Up arrow / W / Z / Space</li>
 </ul>
 <ul>
